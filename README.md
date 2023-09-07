@@ -1,4 +1,4 @@
-###Git from Me
+### Git from Me
 
 I am Seyong Park. 
 
@@ -7,5 +7,5 @@ GlobalWarming :polar_bear:
 Aging Society :baby_symbol:
 Economy of New Normal :moneybag:
 
-My mission is
-#Make sustainable Economy System at Aging society :older_adult:
+My mission is <br/>
+# **Make sustainable Economy System at Aging society** :older_adult:
