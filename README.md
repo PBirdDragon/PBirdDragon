@@ -1,4 +1,4 @@
-### Git from Me
+### I tried to show this file on my dashboard, but I failed
 
 I am Seyong Park. 
 
