@@ -1,4 +1,4 @@
-### I tried to show this file on my dashboard, but I failed
+### ~~I tried to show this file on my dashboard, but I failed~~ I've done it :smile:
 
 I am Seyong Park. 
 
